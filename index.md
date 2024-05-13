@@ -1,6 +1,6 @@
-# I
-## like
-### birds
+# I like birds
+## I have a pet. His name is Apolo.
+### I'm super happy to have such a beautiful bird!
 
 ![Image of a colorful bird](https://estaticosgn-cdn.deia.eus/clip/57a1bf67-edb4-43b2-aee9-ef8788bf36cf_16-9-discover-aspect-ratio_default_0.jpg)
 
